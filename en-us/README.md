@@ -4,23 +4,6 @@ Microsoft AI Education Community, AI-Edu, is an open source AI community created
   
 This community is composed of three modules: **Basic Tutorials**, **Practical Cases**, and **Practical Projects**. Readers are guided through systematic theoretical tutorials and applicable and diverse practical cases. This aides in the learning and mastery of artificial intelligence knowledge, and exercising their development abilities in actual projects.
 
-## **Recent News**
-- August 16, 2021
-  
-  **A6-Artificial Intelligence System Update**: **[A6-Artificial Intelligence System](../基础教程/A6-人工智能系统)** The course has been updated to the latest version!
-  
-  From now on, the open source course of artificial intelligence system is a sub-module of this community, which will update with the original warehouse. Welcome to the community to learn!
-
-- June 25, 2021
-  
-  **New version release**: AI-Edu V1.3.0 has been released! The new community structure is more convenient! At the same time, the website is also running. Everyone is welcome to come and see! [Click here to visit website](https://microsoft.github.io/ai-edu/)
-
-- June 21, 2021
-  
-  **Case update**: New practical case [Time series forecast based on LightGBM](../实践案例/B16-基于LightGBM的时间序列预测) Already created, and friends are welcome to study if interested.
-
-- [Update History](../docs/News.md)
-
 ## **List of catalog functions**  
 
 <table>
